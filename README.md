@@ -17,6 +17,6 @@
 
 ![WeChat](https://img.shields.io/badge/ifndef-surfgreen?style=flat-square&logo=wechat&logoSize=amd&label=wechat)
 [![Instagram](https://img.shields.io/badge/instagram-red?style=flat-square&logo=Instagram&logoSize=amd)](https://www.instagram.com/68pedals/)
-[![Website](https://img.shields.io/badge/website-black?style=flat-square&logo=Instagram&logoSize=amd)](https://shop.68pedals.com)
+[![Website](https://img.shields.io/badge/website-black?style=flat-square&logo=Woo&logoSize=amd)](https://shop.68pedals.com)
 
 </div>
