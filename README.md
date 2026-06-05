@@ -15,4 +15,9 @@
                                /_/                                     
 ```
 
+![Static Badge](https://img.shields.io/badge/ifndef-surfgreen?style=flat-square&logo=wechat&logoSize=amd&label=wechat)
+![Static Badge](https://img.shields.io/badge/instagram-red?style=flat-square&logo=Instagram&logoSize=amd&link=https%3A%2F%2Fwww.instagram.com%2F68pedals%2F)
+![Static Badge](https://img.shields.io/badge/website-black?style=flat-square&logo=Instagram&logoSize=amd&link=https%3A%2F%2Fshop.68pedals.com)
+
+
 </div>
